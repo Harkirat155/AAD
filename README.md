@@ -1,2 +1,2 @@
 # AAD
-working repo for course for AAD on pluralsight
+working repo for course of AAD on pluralsight
